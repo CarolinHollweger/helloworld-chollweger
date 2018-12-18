@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 19a784809ce324608aa1a32df9a4336b
+timeCreated: 1544622943
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Christmas Wish Calligraphy
+  fontNames:
+  - Christmas Wish Calligraphy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
